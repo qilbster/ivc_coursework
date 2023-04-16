@@ -1,0 +1,6 @@
+[1]. http://www.ijcstjournal.org/volume-4/issue-3/IJCST-V4I3P40.pdf
+[2]. https://arxiv.org/ftp/arxiv/papers/1910/1910.13796.pdf
+[3]. https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+[4]. https://arxiv.org/abs/1512.03385
+[5]. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922040
+[6]. https://arxiv.org/pdf/1604.04004.pdf
